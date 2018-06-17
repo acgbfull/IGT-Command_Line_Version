@@ -1,6 +1,6 @@
-#IGT(command-line version)
+# IGT(command-line version)
 
-##Description
+## Description
 
 **IGT**是一款具有收集IP地理位置、同IP网站、端口信息、IP地址、WHOIS、子域名信息的工具。
 （IGT is a tool for collecting IP Location, reverse IP info, port info, IP address, WHOIS, subdomains info.）
@@ -26,7 +26,7 @@
 >git clone https://github.com/acgbfull/IGT-Command_Line_Version.git
 
 
-##help
+## help
         ******************************************************************
                      Information Gathering Tool 1.0                     
          ******************************************************************
